@@ -1,0 +1,44 @@
+h1 {color:rgb(13, 85, 109, 0.473)}
+
+* {border:solid}
+
+.header {
+    background-color: rgb(20, 139, 66);
+
+    display:flex;
+    justify-content: space-between;
+}
+
+.menu {
+    background-color:#529012;
+}
+
+.discription{
+    background-color: #255468;
+}
+
+.games {
+    background-color: #162358;
+
+    display:flex;
+    
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.item {
+    
+}
+
+.bio {
+    background-color: #123456;
+
+    display:flex;
+    
+    justify-content: flex-end;
+}
+
+body {
+    background-color: #457592;
+}
